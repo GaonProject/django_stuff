@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlitte3
+/static
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
+.vscode
+python_intro.py
